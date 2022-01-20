@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* h6 {
+  font-size: 50px;
+} */
+
+h1 {
+  border: 1px solid red;
+  display: inline;
+}
+
+span {
+  color: black;
+  font-weight: 700;
+}
+
+a {
+  border: 1px solid green;
+}
+
+p {
+  border: 1px solid turquoise;
+}
+
+.umut1 {
+  width: 500px;
+  height: auto;
+}
+
+/* #umut-id1 {
+  width: 800px;
+} */
+
+.umut2 {
+  width: 200px;
+}
